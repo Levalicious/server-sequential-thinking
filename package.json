@@ -1,6 +1,6 @@
 {
   "name": "@levalicious/server-sequential-thinking",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "MCP server for sequential thinking and problem solving",
   "license": "MIT",
   "author": "Anthropic, PBC (https://anthropic.com)",
@@ -19,14 +19,14 @@
     "watch": "tsc --watch"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "0.5.0",
+    "@modelcontextprotocol/sdk": "1.16.0",
     "chalk": "^5.3.0",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
-    "@types/node": "^22",
+    "@types/node": "^24",
     "@types/yargs": "^17.0.32",
-    "shx": "^0.3.4",
+    "shx": "^0.4.0",
     "typescript": "^5.3.3"
   }
 }
