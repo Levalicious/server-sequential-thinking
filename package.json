@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "MCP server for sequential thinking and problem solving",
   "license": "MIT",
-  "author": "Anthropic, PBC (https://anthropic.com)",
+  "author": "Levalicious",
   "homepage": "https://modelcontextprotocol.io",
   "bugs": "https://github.com/modelcontextprotocol/servers/issues",
   "type": "module",
